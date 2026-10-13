@@ -1,15 +1,23 @@
 {
   "manifest_version": 3,
   "name": "Video Focus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Keeps video pages focused: removes short-form shelves and recommendation feeds.",
   "content_scripts": [
     {
-      "matches": ["https://www.youtube.com/*", "https://m.youtube.com/*"],
-      "css": ["guard.css"],
-      "js": ["guard.js"],
+      "matches": [
+        "https://www.youtube.com/*",
+        "https://m.youtube.com/*"
+      ],
+      "css": [
+        "guard.css"
+      ],
+      "js": [
+        "guard.js"
+      ],
       "run_at": "document_start",
       "all_frames": true
     }
-  ]
+  ],
+  "update_url": "https://afanoxai.github.io/video-focus/update.xml"
 }
