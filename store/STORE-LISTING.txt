@@ -1,0 +1,40 @@
+=== Chrome Web Store listing (paste-ready) ===
+
+NAME
+Video Focus
+
+SHORT DESCRIPTION (max 132 chars)
+Keeps video pages focused: removes short-form shelves and recommendation feeds. No UI, no settings to switch off.
+
+DETAILED DESCRIPTION
+Video Focus is a deliberately locked extension for shared family or school computers.
+
+It removes short-form video shelves (Shorts) and recommendation feeds from video pages, so the
+page shows only what was deliberately searched for.
+
+There is no popup, no options page, no toolbar button and no storage: nothing for the user to
+switch off, which is exactly the point.
+
+The extension is deployed by device policy by the machine's administrator.
+
+CATEGORY
+Productivity
+
+LANGUAGE
+English
+
+PRIVACY - DATA USE (all answers: "No")
+- Does this item collect or use personal or sensitive user data? -> No
+- Does this item use remote code? -> No
+- Does this item use or transfer user data for purposes unrelated to its single purpose? -> No
+- Does this item determine creditworthiness or for lending purposes? -> No
+Single purpose statement:
+"Removes short-form video shelves and recommendation feeds from video pages."
+
+VISIBILITY
+Unlisted  (only people with the link can install it)
+
+WHAT TO UPLOAD
+- Package: video-focus-1.0.2.zip
+- Store icon: ext/icon128.png
+- Screenshot (1280x800): screenshot-1280x800.png
